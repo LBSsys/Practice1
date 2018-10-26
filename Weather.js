@@ -19,7 +19,7 @@ import PropTypes from "prop-types";
 //   }
 // }
 
- const weatherCases ={ // will it ignore?
+ const weatherCases ={ //thyun made own branch 
    Rain: {
      colors: ["#00C6F8", "#005BEA"],
      title: "Raining like a Fucker",
