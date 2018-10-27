@@ -20,7 +20,8 @@ import PropTypes from "prop-types";
 // }
 
  const weatherCases ={ //thyun made own branch 
-   						//made develop branch
+   			//ssssssss				
+		 //made develop branch
    						//made develop-david branch all done!!!
    Rain: {
      colors: ["#00C6F8", "#005BEA"],
